@@ -1,4 +1,4 @@
-# GitloomLabs
+# GitLoomLabs
 
 We craft developer-first tools for managing content with Git.
 
