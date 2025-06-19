@@ -2,7 +2,7 @@
 
 We craft developer-first tools for managing content with Git.
 
-**Gitloom** is our flagship project — a lightweight Git-powered CMS for blogs, documentation, and digital storytelling. Auth with GitHub, manage content in your repo, and publish like magic ✨
+**GitLoom** is our flagship project — a lightweight Git-powered CMS for blogs, documentation, and digital storytelling. Auth with GitHub, manage content in your repo, and publish like magic ✨
 
 ## Vision
 
